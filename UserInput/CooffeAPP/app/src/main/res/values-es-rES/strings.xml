@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CooffeAPP</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="whippedCream">Crema batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Cantidad</string>
+    <string name="order">Pedir</string>
+    <string name="thank_you">Gracias!</string>
+    <string name="name">Nombre</string>
+    <string name="toastMessage">La aplicación de gmail no está instalada</string>
+    <string name="subject">Pedido de café</string>
+</resources>
